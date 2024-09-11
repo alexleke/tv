@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,SBT
+https://anonmedia.eu:443/sbt/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Globo
+https://anonmedia.eu/globosp-globosaopaulo/index.m3u8

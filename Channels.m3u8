@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1,SBT
-https://anonmedia.eu:443/sbt/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Globo
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="SBT" group-title="ABERTO",SBT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728174561/ei/gYUBZ43cFYSQ-LAP8LDzMQ/ip/45.166.205.74/id/QAxZXR9wEpQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/nagoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP4KyR1u0iz2D1buI_OoAVTZev63CHNLR9pPjixKX_DbAiEA3H4bH3PVVSLOpVKFcZuYyyLVGeZhpBxp9Mo3uNHEang%3D/file/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="GLOBO" group-title="ABERTO",GLOBO
 https://anonmedia.eu/globosp-globosaopaulo/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="SBT" group-title="ABERTO",SBT
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/sbt/__index.m3u8?mu3zAQc9HC3GbwJq=IzaV-Mwaon6moe--9bz_4A&3U1G7qaTxrPbalZnEx=1728182106&sv=87
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Fechado",Animal Planet
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/animalplanet/__index.m3u8?mu3zAQc9HC3GbwJq=c2CEkoooIbtFmlAOJ7ledw&3U1G7qaTxrPbalZnEx=1728182534&sv=172
